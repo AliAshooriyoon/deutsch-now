@@ -66,7 +66,9 @@ const Download = () => {
           <p className="distro__title">Arm Base </p>
         </Link>
       </div>
-      <div className="phone">Für Handy ist später bereit!</div>
+      <div className="phone">Für Handy ist später bereit!
+        <h2 className='phone_option'>In 2 Monaten können Sie den Service des Handy empfangen</h2>
+      </div>
     </div>
   );
 };
