@@ -8,7 +8,7 @@ const Download = () => {
         <div className="download__OS__icon">
           <img src="images/operating-system-100.png" alt="" />
         </div>
-        <span>Select Your Operating System :</span>
+        <span>Wählen Sie bitte Ihr OS :</span>
       </div>
       <div className="OS__info">
         <p className="OS__info__title">
@@ -66,8 +66,11 @@ const Download = () => {
           <p className="distro__title">Arm Base </p>
         </Link>
       </div>
-      <div className="phone">Für Handy ist später bereit!
-        <h2 className='phone_option'>In 2 Monaten können Sie den Service des Handy empfangen</h2>
+      <div className="phone">
+        Für Handy ist später bereit!
+        <h2 className="phone_option">
+          In 2 Monaten können Sie den Service des Handys empfangen
+        </h2>
       </div>
     </div>
   );
