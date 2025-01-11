@@ -5,3 +5,32 @@
   font-size: 3rem;
   padding: 2rem;
 }
+.login_form {
+  width: 30%;
+  height: 46rem;
+  background-color: #444;
+  margin: 5rem auto;
+  border-radius: 2rem;
+  box-shadow: 1rem 1rem 1rem 0.2rem #555;
+  border: 2px solid #888;
+}
+.input_value {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #333;
+  flex-flow: column;
+  gap: 2rem;
+  min-height: 50%;
+  max-height: 50%;
+  width: 100%;
+}
+.input_form {
+  width: 90%;
+  height: 4rem;
+  background-color: red;
+  outline: none;
+  font-size: 2rem;
+  border-radius: 1rem;
+  text-indent: 1rem;
+}

@@ -1,6 +1,5 @@
 import "./App.css";
-import { Routes, Route, useRoutes } from "react-router-dom";
-import Home from "./Component/Pages/Home/Home";
+import { useRoutes } from "react-router-dom";
 import routes from "./Component/Pages/routes";
 import Footer from "./Component/Pages/Footer/Footer";
 import Header from "./Component/Pages/Header/Header";
